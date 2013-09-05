@@ -1,5 +1,5 @@
-;;; unsharp-mask-LAB.scm
-;;; Author: Maxim Zakharov <maxime@maxime.net.ru>
+;;; unsharp-mask-lab.scm
+;;; Author: Maxim Zakharov <dp.maxime@gmail.com>
 ;;; Version 0.2
 
 (define (script-fu-unsharp-mask-lab image drawable slider-radius slider-amount slider-threshold blur-radius)
@@ -53,7 +53,7 @@
 (script-fu-register "script-fu-unsharp-mask-lab"
   "<Image>/Script-Fu/Unsharp Mask LAB..."
   "Make a new image from the current layer by applying the unsharp mask method"
-  "Maxim Zakharov <maxime@maxime.net.ru>"
+  "Maxim Zakharov <dp.maxime@gmail.com>"
   "Maxim Zakharov"
   "2009"
   ""

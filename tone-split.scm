@@ -1,5 +1,5 @@
 ;;; tone-split.scm
-;;; Author: Maxim Zakharov <maxime@maxime.net.ru>
+;;; Author: Maxim Zakharov <dp.maxime@gmail.com>
 ;;; Version 0.1
 ; --------------------------------------------------------------------
 ;
@@ -156,7 +156,7 @@
 (script-fu-register "script-fu-tone-split"
   "<Image>/Script-Fu/Tone Split..."
   "Make highlights and shadows based on average color of the image"
-  "Maxim Zakharov <maxime@maxime.net.ru>"
+  "Maxim Zakharov <dp.maxime@gmail.com>"
   "Maxim Zakharov"
   "2011"
   "RGB*"

@@ -1,5 +1,5 @@
 ;;; dalton.scm
-;;; Author: Maxim Zakharov <maxime@maxime.net.ru>
+;;; Author: Maxim Zakharov <dp.maxime@gmail.com>
 ;;; Version 0.1
 
 (define (script-fu-dalton-lab image drawable)
@@ -103,7 +103,7 @@
 (script-fu-register "script-fu-dalton-lab"
   "<Image>/Script-Fu/Daltonian View"
   "Make image as a daltonian see it"
-  "Maxim Zakharov <maxime@maxime.net.ru>"
+  "Maxim Zakharov <dp.maxime@gmail.com>"
   "Maxim Zakharov"
   "2009"
   ""
@@ -114,7 +114,7 @@
 (script-fu-register "script-fu-undalton-lab"
   "<Image>/Script-Fu/UnDaltonian View"
   "Make a daltonian image like normal"
-  "Maxim Zakharov <maxime@maxime.net.ru>"
+  "Maxim Zakharov <dp.maxime@gmail.com>"
   "Maxim Zakharov"
   "2009"
   ""

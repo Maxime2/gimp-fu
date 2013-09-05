@@ -6,7 +6,7 @@
 	"script-fu-webify"
 	"<Image>/Script-Fu/Webify"
 	"Rescale an image for Web."
-	"Maxim Zakharov <maxime@maxime.net.ru>"
+	"Maxim Zakharov <dp.maxime@gmail.com>"
 	"Maxim Zakharov"
 	"2009"
 	"*"

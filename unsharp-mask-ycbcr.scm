@@ -1,5 +1,5 @@
-;;; unsharp-mask-YCbCr.scm
-;;; Author: Maxim Zakharov <maxime@maxime.net.ru>
+;;; unsharp-mask-ycbcr.scm
+;;; Author: Maxim Zakharov <dp.maxime@gmail.com>
 ;;; Version 0.3
 ; --------------------------------------------------------------------
 ;
@@ -217,7 +217,7 @@
 (script-fu-register "script-fu-unsharp-mask-ycbcr"
   "<Image>/Script-Fu/Unsharp Mask YCbCr..."
   "Make a new image from the current layer by applying the unsharp mask method"
-  "Maxim Zakharov <maxime@maxime.net.ru>"
+  "Maxim Zakharov <dp.maxime@gmail.com>"
   "Maxim Zakharov"
   "2009-2011"
   "RGB*"

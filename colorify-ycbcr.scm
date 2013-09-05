@@ -1,5 +1,5 @@
 ;;; colorify-ycbcr.scm
-;;; Author: Maxim Zakharov <maxime@maxime.net.ru>
+;;; Author: Maxim Zakharov <dp.maxime@gmail.com>
 ;;; Version 0.1
 
 (define (script-fu-colorify-ycbcr image drawable ab-adjust l-adjust)
@@ -73,7 +73,7 @@
 (script-fu-register "script-fu-colorify-ycbcr"
   "<Image>/Script-Fu/Colorify YCbCr"
   "Smart colorify image through YCbCr ITU R709 color space"
-  "Maxim Zakharov <maxime@maxime.net.ru>"
+  "Maxim Zakharov <dp.maxime@gmail.com>"
   "Maxim Zakharov"
   "2009"
   ""

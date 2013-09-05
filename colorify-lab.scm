@@ -1,5 +1,5 @@
 ;;; colorify-lab.scm
-;;; Author: Maxim Zakharov <maxime@maxime.net.ru>
+;;; Author: Maxim Zakharov <dp.maxime@gmail.com>
 ;;; Version 0.1
 
 (define (script-fu-colorify-lab image drawable ab-adjust l-adjust)
@@ -73,7 +73,7 @@
 (script-fu-register "script-fu-colorify-lab"
   "<Image>/Script-Fu/Colorify LAB"
   "Smart colorify image through LAB color space"
-  "Maxim Zakharov <maxime@maxime.net.ru>"
+  "Maxim Zakharov <dp.maxime@gmail.com>"
   "Maxim Zakharov"
   "2009"
   ""
